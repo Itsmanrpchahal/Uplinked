@@ -1,0 +1,24 @@
+Updated. Elapsed time: 5.699157 sec.
+[====================]
+
+- Finishing ... Done!
+- fzf: Already installed
+- vim-devicons: Resolving deltas: 100% (215/215), done.
+- YCM-Generator: Already installed
+- vim-snippets: Already installed
+- vim-tmux-navigator: Resolving deltas: 100% (14/14), done.
+- coc.nvim: Resolving deltas: 100% (3437/3437), done.
+- yats.vim: Resolving deltas: 100% (26/26), done.
+- nerdtree: Already installed
+- nerdtree-git-plugin: Resolving deltas: 100% (1/1), done.
+- vim-fireplace: Already installed
+- ultisnips: Already installed
+- gocode: Already installed
+- vim-go: Already installed
+- gruvbox: Resolving deltas: 100% (13/13), done.
+- vim-nerdtree-syntax-highlight: Resolving deltas: 100% (17/17), done.
+- vim-gitgutter: Receiving objects: 100% (31/31), 591.50 KiB | 807.00 KiB/s, done.
+- nerdcommenter: Resolving deltas: 100% (48/48), done.
+- vim-github-dashboard: Already installed
+- vim-easy-align: Already installed
+- ctrlp.vim: Resolving deltas: 100% (197/197), done.
