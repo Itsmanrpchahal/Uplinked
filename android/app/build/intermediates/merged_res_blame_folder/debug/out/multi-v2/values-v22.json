@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "uplinked.com.au.app-mergeDebugResources-33:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/itsmanprchahal/.gradle/caches/transforms-3/57f14e1f8845b96d51a4cf3007dac09a/transformed/appcompat-1.3.0/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

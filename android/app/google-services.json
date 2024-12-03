@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "472039404509",
+    "project_id": "linkedup-4fc62",
+    "storage_bucket": "linkedup-4fc62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472039404509:android:085629b35e0f0f8ce67c34",
+        "android_client_info": {
+          "package_name": "uplinked.com.au"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472039404509-eb7sn99g4gj55fdjcbnot1knl2bq276c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uplinked.com.au",
+            "certificate_hash": "0d662c4e588e043f21ddf48c06562859c1c615c8"
+          }
+        },
+        {
+          "client_id": "472039404509-0oqnjc66le1085sk06ovkeafvedg6vof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC286Cn9EXOq7TAQTh0RO5f6c-7Pq3RT4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472039404509-0oqnjc66le1085sk06ovkeafvedg6vof.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "472039404509-d7q2kh0j1shmag5gpj2qlthrvj1ial4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uplinked.com.au"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+Keystore password => admin@123
+Key alias key0
+key password => admin@123
+key store path =>. LinkedUpGP/linkedup-guard-mobile/android/UpLinkedKey
